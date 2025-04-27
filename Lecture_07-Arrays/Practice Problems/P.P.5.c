@@ -10,8 +10,10 @@ int main() {
     int identity[6][6];
 
     // Fill the identity matrix
-    for(i = 0; i < 6; i++) {
-        for(j = 0; j < 6; j++) {
+    for(i = 0; i < 6; i++) 
+    {
+        for(j = 0; j < 6; j++) 
+        {
             if(i == j)
                 identity[i][j] = 1; // main diagonal
             else
