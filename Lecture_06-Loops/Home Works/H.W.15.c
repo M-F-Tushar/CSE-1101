@@ -2,11 +2,11 @@
 Write a program that reads two integers (i.e., M, N) and produces an M×N grid. Each
 grid cell should be 3×2 characters wide. As an example, a 3×5 grid follows:
 +−−+−−+−−+−−+−−+
-| | | | | |
+|  |  |  |  |  |
 +−−+−−+−−+−−+−−+
-| | | | | |
+|  |  |  |  |  |
 +−−+−−+−−+−−+−−+
-| | | | | |
+|  |  |  |  |  |
 +−−+−−+−−+−−+−−+
 The three horizontal characters of each cell should be +−− and the two verticals +|
 */
