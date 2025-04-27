@@ -22,8 +22,10 @@ int main() {
     }
 
     // Display the identity matrix
-    for(i = 0; i < 6; i++) {
-        for(j = 0; j < 6; j++) {
+    for(i = 0; i < 6; i++) 
+    {
+        for(j = 0; j < 6; j++) 
+        {
             printf("%d ", identity[i][j]);
         }
         printf("\n");
