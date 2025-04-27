@@ -17,4 +17,4 @@ int main() {
     printf("The square of number 5 is : %d",SQ);
     return 0;
 }
-//With using static inline won't work in gcc
+//With using static, inline won't work in gcc
