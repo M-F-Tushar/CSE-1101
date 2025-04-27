@@ -18,8 +18,10 @@ int main() {
 
     // Output: Display in reverse order (bottom-right to top-left)
     printf("Array in reverse order:\n");
-    for(i = 1; i >= 0; i--) {
-        for(j = 3; j >= 0; j--) {
+    for(i = 1; i >= 0; i--) 
+    {
+        for(j = 3; j >= 0; j--) 
+        {
             printf("%d ", arr[i][j]);
         }
     }
