@@ -8,8 +8,10 @@ int main() {
 
     // Input: Read 8 integers into the 2x4 array
     printf("Enter 8 integers:\n");
-    for(i = 0; i < 2; i++) {
-        for(j = 0; j < 4; j++) {
+    for(i = 0; i < 2; i++) 
+    {
+        for(j = 0; j < 4; j++) 
+        {
             scanf("%d", &arr[i][j]);
         }
     }
