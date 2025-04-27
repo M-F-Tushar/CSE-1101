@@ -7,7 +7,8 @@ int main() {
     printf("Enter characters: ");
     ch = getchar();//This initializes the ch variable so that the while loop has something to check.
 
-    while(ch != '\n') {
+    while(ch != '\n') 
+    {
         sum++;
         printf("%c", ch);
         ch = getchar();//This reads the next character after printing the current one, so the loop can continue with fresh input each time.
