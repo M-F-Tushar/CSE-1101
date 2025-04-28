@@ -10,7 +10,8 @@ Distance = 5.00
 #include <stdio.h>
 #include <math.h>
 
-struct Point {
+struct Point 
+{
     float x;
     float y;
 };
