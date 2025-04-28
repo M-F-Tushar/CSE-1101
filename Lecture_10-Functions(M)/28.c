@@ -11,18 +11,15 @@ Complexity	                    Usually easier to analyze and debug.	          Mo
 Use Cases	                      Factorial, Fibonacci, Binary Search, Tree Traversals.	  State Machines, Mutual Control Flow, Problem-Solving with Alternating Tasks.
 Example Execution
 Direct Recursion Example (funcA(3))
-scss
-Copy
-Edit
+
 funcA(3) → prints 3 → calls funcA(2)
 funcA(2) → prints 2 → calls funcA(1)
 funcA(1) → prints 1 → calls funcA(0)
 funcA(0) → returns (Base Case)
 Output: 3 2 1
+
 Indirect Recursion Example (funcA(3))
-scss
-Copy
-Edit
+
 funcA(3) → prints 3 → calls funcB(2)
 funcB(2) → prints 2 → calls funcA(0)
 funcA(0) → returns (Base Case)
