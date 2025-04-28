@@ -21,7 +21,8 @@ struct Date {
     int year;
 };
 
-int main() {
+int main() 
+{
     struct Date d1, d2;
 
     printf("Enter Date-01 (Day Month Year): ");
@@ -30,9 +31,12 @@ int main() {
     printf("Enter Date-02 (Day Month Year): ");
     scanf("%d %d %d", &d2.day, &d2.month, &d2.year);
 
-    if (d1.day == d2.day && d1.month == d2.month && d1.year == d2.year) {
+    if (d1.day == d2.day && d1.month == d2.month && d1.year == d2.year) 
+    {
         printf("Dates are equal\n");
-    } else {
+    } 
+    else 
+    {
         printf("Dates are not equal\n");
     }
 
