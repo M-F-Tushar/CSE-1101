@@ -16,15 +16,15 @@ Fig. b:
 
 #include <stdio.h>
 
-#define SIZE 5
-
 int main() {
-    int arr[SIZE][SIZE] = {0}; // Initialize array with zeros
+    int arr[5][5] = {0}; // Initialize array with zeros
     int i, j;
 
     // Step 1: Fill array according to Fig. a
-    for (i = 0; i < SIZE; i++) {
-        for (j = 0; j <= i; j++) {
+    for (i = 0; i < 5; i++) 
+    {
+        for (j = 0; j <= i; j++) 
+        {
             if (i == j)
                 arr[i][j] = (i + 1) * (i + 1); // Square of the number
             else
@@ -34,8 +34,10 @@ int main() {
 
     // Print Fig. a
     printf("Fig. a:\n");
-    for (i = 0; i < SIZE; i++) {
-        for (j = 0; j <= i; j++) {
+    for (i = 0; i < 5; i++) 
+    {
+        for (j = 0; j <= i; j++) 
+        {
             printf("%d\t", arr[i][j]);
         }
         printf("\n");
@@ -43,8 +45,10 @@ int main() {
 
     // Step 2: Print array in reverse order (Fig. b)
     printf("\nFig. b:\n");
-    for (i = SIZE - 1; i >= 0; i--) {
-        for (j = i; j >= 0; j--) {
+    for (i = 4; i >= 0; i--) 
+    {
+        for (j = i; j >= 0; j--) 
+        {
             printf("%d\t", arr[i][j]);
         }
         printf("\n");
