@@ -32,7 +32,8 @@ int main() {
     scanf("%d", &N);
     
     // Validate input
-    if (N < 1 || N > 100) {
+    if (N < 1 || N > 100) 
+    {
         printf("N must be between 1 and 100.\n");
         return 1;
     }
