@@ -12,7 +12,8 @@ Marks: 88
 
 #include<stdio.h>
 
-struct Student {
+struct Student 
+{
     int roll;
     char name[50];
     int age;
