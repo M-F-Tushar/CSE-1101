@@ -14,7 +14,8 @@ int main() {
     scanf("%d", &n);
 
     printf("Fibonacci Series: ");
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         printf("%d ", fibonacci(i));
     }
     
