@@ -20,7 +20,8 @@ struct Student {
 };
 
 int main() {
-    struct Student students[5] = {
+    struct Student students[5] = 
+    {
         {1, "John Doe", 18},
         {2, "Jane Smith", 19},
         {3, "Alice Brown", 18},
@@ -32,8 +33,10 @@ int main() {
     printf("Enter Roll No to Find Details: ");
     scanf("%d", &searchRoll);
 
-    for (i = 0; i < 5; i++) {
-        if (students[i].roll == searchRoll) {
+    for (i = 0; i < 5; i++) 
+    {
+        if (students[i].roll == searchRoll) 
+        {
             printf("\nInformation of Roll No: %d\n", searchRoll);
             printf("----------------------------\n");
             printf("Roll No: %d\n", students[i].roll);
