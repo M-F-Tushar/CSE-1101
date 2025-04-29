@@ -15,13 +15,20 @@ int main() {
     printf("Enter water consumption in cubic meters: ");
     scanf("%lf", &consumption);
 
-    if (consumption <= 30) {
+    if (consumption <= 30) 
+    {
          bill += consumption * 0.6;
-    } else if (consumption <= 50) {
+    } 
+    else if (consumption <= 50) 
+    {
          bill += 30 * 0.6 + (consumption - 30) * 0.8;
-    } else if (consumption <= 60) {
+    } 
+    else if (consumption <= 60) 
+    {
          bill += 30 * 0.6 + 20 * 0.8 + (consumption - 50) * 1.0;
-    } else {
+    }
+    else 
+    {
         bill += 30 * 0.6 + 20 * 0.8 + 10 * 1.0 + (consumption - 60) * 1.2;
     }
 
