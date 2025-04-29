@@ -20,3 +20,24 @@ printf("The last number is = %d\n", i-1); /* The number i−1 is the last number
 number. */
 return 0;
 }
+/*
+📊 Why i - 1?
+Let’s say num = 30
+
+Step-by-step:
+
+
+i	i*i	sum
+1	1	1
+2	4	5
+3	9	14
+4	16	30 → condition met, loop breaks
+At this point, sum = 30 and i = 4
+
+The loop just broke, but sum became equal to or more than num
+
+So, the last i before this happened was 3
+
+Hence, i - 1 = 3 is the last number for which the sum was still less than num
+
+*/
