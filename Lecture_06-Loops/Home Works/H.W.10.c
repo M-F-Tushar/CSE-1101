@@ -3,9 +3,8 @@
 #include <stdio.h>
 int main()
 {
-    int num, sum, dig;
-    sum = 0;
-    dig = 0;
+    int num, sum = 0, dig = 0;
+    
     printf("Enter number: ");
     scanf("%d", &num);
     if(num < 0)
