@@ -1,6 +1,7 @@
 /*Write a program that simulates a physical calculator. The program should take as
 input the symbol of an arithmetic operator and two integers and display the result of
 the arithmetic operation.*/
+
 #include <stdio.h>
 int main()
 {
