@@ -10,7 +10,8 @@ int main() {
     do {
         printf("Enter number: ");
         scanf("%d", &num);
-        if (num != 0) {
+        if (num != 0) 
+        {
             printf("Num = %d\n", num);
         }
     } while (num != 0);
