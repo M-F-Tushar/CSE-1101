@@ -38,40 +38,38 @@ Chandpur Science and Technology University
 📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_03-Getting%20Input%20with%20scanf()/Home%20works)
 
 ### Lecture 04: Operators
-📂 [Homeworks](./Lecture_04-Operators/Home_Works/)  
-📂 [Practice Problems](./Lecture_04-Operators/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_04-Operators/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_04-Operators/Practice%20Problems)
 
 ### Lecture 05: Program Control
-📂 [Homeworks](./Lecture_05-Program_Control/Home_Works/)  
-📂 [Practice Problems](./Lecture_05-Program_Control/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_05-Program%20Control/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_05-Program%20Control/Practice%20Problems)
 
 ### Lecture 06: Loops
-📂 [Homeworks](./Lecture_06-Loops/Home_Works/)  
-📂 [Practice Problems](./Lecture_06-Loops/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_06-Loops/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_06-Loops/Practice%20Problems)
 
 ### Lecture 07: Arrays
-📂 [Homeworks](./Lecture_07-Arrays/Home_Works/)  
-📂 [Practice Problems](./Lecture_07-Arrays/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_07-Arrays/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_07-Arrays/Practice%20Problems)
 
 ### Lecture 08: Pointers
-📂 [Homeworks](./Lecture_08-Pointers/Home_Works/)  
-📂 [Practice Problems](./Lecture_08-Pointers/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_08-Pointers/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_08-Pointers/Practice%20Problems)
 
 ### Lecture 09: Characters and Strings
-📂 [Homeworks](./Lecture_09-Characters_and_Strings/Home_Works/)  
-📂 [Practice Problems](./Lecture_09-Characters_and_Strings/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_09-Characters%20and%20Strings/Home%20Works)  
 
 ### Lecture 10: Functions
-📂 [Homeworks](./Lecture_10-Functions/Home_Works/)  
-📂 [Practice Problems](./Lecture_10-Functions/Practice_Problems/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_10-Functions/Home%20Works)  
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_10-Functions/Practice%20Problems)
 
 ### Lecture 10 (M): Functions 
-📂 [Homeworks](./Lecture_10-Functions(M)/Home_Works/)  
-📂 [Practice Problems](./Lecture_10-Functions(M)/Practice_Problems/)
+📂 [Practice Problems](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_10-Functions(M))
 
 ### Lecture 11 (M): Structures 
-📂 [Homeworks](./Lecture_11-Structures(M)/Home_Works/)  
-📂 [Practice Problems](./Lecture_11-Structures(M)/Practice_Problems/)
+📂 [Assingnment](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_11-Structures(M)/Assignment)  
+📂 [Union](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_11-Structures(M)/Union)
 
 ---
 
