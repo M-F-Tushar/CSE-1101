@@ -12,8 +12,8 @@ This repository contains all programming problems and solutions from the CSE-110
 - [Lecture 08: Pointers](#lecture-08-pointers)
 - [Lecture 09: Characters and Strings](#lecture-09-characters-and-strings)
 - [Lecture 10: Functions](#lecture-10-functions)
-- [Lecture 10 (M): Functions (Advanced)](#lecture-10-m-functions-advanced)
-- [Lecture 11 (M): Structures (Advanced)](#lecture-11-m-structures-advanced)
+- [Lecture 10 (M): Functions](#lecture-10-m-functions-advanced)
+- [Lecture 11 (M): Structures](#lecture-11-m-structures-advanced)
 
 ## Instructors 👨‍🏫
 
