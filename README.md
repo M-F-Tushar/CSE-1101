@@ -32,10 +32,10 @@ Chandpur Science and Technology University
 ## Lecture Details 📘
 
 ### Lecture 02: Data Types, Variables and Data Output
-📂 [Homeworks](./Lecture_02-Data_Types_Variables_and_Data_Output/Homeworks/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_02%3A%20Data%20Types%2C%20Variables%20and%20Data%20Output/Homeworks)
 
 ### Lecture 03: Getting Input with scanf()
-📂 [Homeworks](./Lecture_03-Getting_Input_with_scanf/Home_works/)
+📂 [Homeworks](https://github.com/M-F-Tushar/CSE-1101/tree/main/Lecture_03-Getting%20Input%20with%20scanf()/Home%20works)
 
 ### Lecture 04: Operators
 📂 [Homeworks](./Lecture_04-Operators/Home_Works/)  
